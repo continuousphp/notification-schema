@@ -39,6 +39,7 @@ Optionnal:
   - build-warning
   - build-success
   - build-deploy
+  - build-timeout
 
 
 ## Notification Description Schema
